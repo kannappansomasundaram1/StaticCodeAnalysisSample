@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticCodeAnalysisSamples", "StaticCodeAnalysisSamples\StaticCodeAnalysisSamples.csproj", "{871510D7-448C-4B22-BC8B-B5CEA7D7D584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoredSumOfPrimeNumbers", "RefactoredSumOfPrimeNumbers\RefactoredSumOfPrimeNumbers.csproj", "{2875F526-C2BB-408D-9F13-74625018FBBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfPrimeNumbersTests", "SumOfPrimeNumbersTests\SumOfPrimeNumbersTests.csproj", "{5F807CCB-FD1B-429A-9D74-254A3C6C0841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871510D7-448C-4B22-BC8B-B5CEA7D7D584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871510D7-448C-4B22-BC8B-B5CEA7D7D584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871510D7-448C-4B22-BC8B-B5CEA7D7D584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871510D7-448C-4B22-BC8B-B5CEA7D7D584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2875F526-C2BB-408D-9F13-74625018FBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2875F526-C2BB-408D-9F13-74625018FBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2875F526-C2BB-408D-9F13-74625018FBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2875F526-C2BB-408D-9F13-74625018FBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F807CCB-FD1B-429A-9D74-254A3C6C0841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F807CCB-FD1B-429A-9D74-254A3C6C0841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F807CCB-FD1B-429A-9D74-254A3C6C0841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F807CCB-FD1B-429A-9D74-254A3C6C0841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
